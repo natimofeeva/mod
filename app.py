@@ -49,7 +49,6 @@ with tab1:
   st.radio('Select one:', [1, 2])
 
 st.button('Hit me')
-st.data_editor('Edit data', data)
 st.checkbox('Check me out')
 st.radio('Pick one:', ['nose','ear'])
 st.selectbox('Select', [1,2,3])
